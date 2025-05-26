@@ -21,8 +21,8 @@ from skimage import measure, morphology
 
 # ========== Configuration ========== 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-MODEL_PATH = "D:/Major_Project_(CSE)/Brain_Tumor_Detection/3d_unet_brain_tumor_segmenter.pth"
-SURVIVAL_MODEL_PATH = "D:/Major_Project_(CSE)/Brain_Tumor_Detection/rf_survival_model.pkl"
+MODEL_PATH = "3d_unet_brain_tumor_segmenter.pth" #Change path to your actual path
+SURVIVAL_MODEL_PATH = "rf_survival_model.pkl" #Change path to your actual path
 
 # ========== Load Models ========== 
 model = UNet(
