@@ -1,0 +1,11 @@
+streamlit
+torch
+monai
+numpy
+pandas
+scikit-learn
+matplotlib
+plotly
+seaborn
+shap
+opencv-python-headless
