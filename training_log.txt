@@ -1,0 +1,29 @@
+2025-04-13 08:25:33,153 - Training started
+2025-04-13 08:26:47,985 - Training started
+2025-04-13 08:29:39,146 - Epoch [1/10] Train Loss: 0.0428, Train Acc: 99.83% | Val Loss: 0.0206, Val Acc: 100.00%
+2025-04-13 08:32:29,583 - Epoch [2/10] Train Loss: 0.0213, Train Acc: 100.00% | Val Loss: 0.0108, Val Acc: 100.00%
+2025-04-13 08:35:20,813 - Epoch [3/10] Train Loss: 0.0122, Train Acc: 99.83% | Val Loss: 0.0061, Val Acc: 100.00%
+2025-04-13 08:38:12,077 - Epoch [4/10] Train Loss: 0.0089, Train Acc: 99.83% | Val Loss: 0.0044, Val Acc: 100.00%
+2025-04-13 08:40:59,629 - Epoch [5/10] Train Loss: 0.0051, Train Acc: 100.00% | Val Loss: 0.0034, Val Acc: 100.00%
+2025-04-13 08:43:48,980 - Epoch [6/10] Train Loss: 0.0062, Train Acc: 100.00% | Val Loss: 0.0025, Val Acc: 100.00%
+2025-04-13 08:46:39,667 - Epoch [7/10] Train Loss: 0.0041, Train Acc: 100.00% | Val Loss: 0.0019, Val Acc: 100.00%
+2025-04-13 08:49:28,899 - Epoch [8/10] Train Loss: 0.0034, Train Acc: 100.00% | Val Loss: 0.0015, Val Acc: 100.00%
+2025-04-13 08:52:22,150 - Epoch [9/10] Train Loss: 0.0040, Train Acc: 100.00% | Val Loss: 0.0078, Val Acc: 100.00%
+2025-04-13 08:55:06,245 - Epoch [10/10] Train Loss: 0.0022, Train Acc: 100.00% | Val Loss: 0.0154, Val Acc: 99.32%
+2025-04-13 08:55:06,246 - Training finished
+2025-04-13 09:02:51,431 - Evaluation started
+2025-04-13 09:06:19,629 - Evaluation started
+2025-04-13 09:06:53,711 - Evaluation - Val Loss: 0.0154, Val Acc: 99.32%
+2025-04-13 09:06:53,711 - DICE: nan, IoU: 0.5541
+2025-04-13 09:06:53,712 - Precision: 0.5541, Recall: 0.5541, F1-Score: 0.5541
+2025-04-13 09:06:53,713 - Evaluation finished
+2025-04-13 09:08:54,292 - Evaluation started
+2025-04-13 09:11:36,577 - Evaluation started
+2025-04-13 09:12:11,753 - Evaluation - Val Loss: 0.0154, Val Acc: 99.32%
+2025-04-13 09:12:11,753 - DICE: 0.9932, IoU: 0.5541
+2025-04-13 09:12:11,754 - Precision: 0.5541, Recall: 0.5541, F1-Score: 0.5541
+2025-04-13 09:12:11,754 - Evaluation finished
+2025-04-13 11:07:07,315 - Training started
+2025-04-13 11:09:05,788 - Training started
+2025-04-13 11:09:55,853 - Training started
+2025-04-13 11:11:25,503 - Training started
